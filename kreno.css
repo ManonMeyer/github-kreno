@@ -1,0 +1,99 @@
+body{
+  background: white;
+  color: rgb(117, 120, 130);
+  font-size: 20px;
+  font-family: Calibri;
+  text-align: center;
+  margin: 0;
+}
+h1{
+  font-family: 'Chakra Petch', sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: 'Chakra Petch', sans-serif;
+  color: rgb(117, 120, 130);
+  font-weight: lighter;
+  font-size: 28px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://www.pcrevue.sk/files/photo/2018-07/47448/a1c18b/parking-area.jpg");
+  background-size: cover;
+  padding: 125px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: rgb(92, 193,179);
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: 'Chakra Petch', sans-serif;
+}
+#footer{
+  padding: 30px;
+  background: rgb(117, 120, 130);
+  color: lightgrey;
+  font-size: 15px;
+}
+
+.card{
+  padding: 5px;
+  font-weight: lighter;
+  font-family: Calibri;
+  margin: 40px;
+}
+
+
+.backgroundgreen{
+  padding: 10px;
+  background-color: rgb(92, 193,179);
+  font-weight: lighter;
+  font-family: Calibri;
+  margin: 0 0 0;
+  color: white;
+  font-size: 20px;
+}
+
+.backgroundblue{
+  padding: 40px;
+  background-color: rgb(92, 193,179);
+  font-weight: lighter;
+  font-family: Calibri;
+  margin: 0 0 0;
+  color: white;
+  font-size: 20px;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+.card-image-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.iphone {
+padding: 50;
+}
